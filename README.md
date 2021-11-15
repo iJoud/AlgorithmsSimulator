@@ -6,4 +6,4 @@ The project on operating system course was about creating a program that simulat
 * Shortest Job First (SJF) Algorithm
 * Priority Algorithm
 
-In addition, a GANTT CHART will be generated for each algorithm result.
+In addition, GANTT CHART will be generated for each algorithm result.
