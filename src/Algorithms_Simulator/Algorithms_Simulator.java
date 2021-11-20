@@ -1,4 +1,6 @@
-
+/*
+Main class that contain all calculations and algorithms
+*/
 
 package Algorithms_Simulator;
 
