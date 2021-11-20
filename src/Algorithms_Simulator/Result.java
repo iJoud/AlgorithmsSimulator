@@ -1,7 +1,5 @@
-//Section: CAR
-//Shaima Asiri - 1805932
-//Anoud Al-harthy - 1806132
-//Jood 
+
+
 package Algorithms_Simulator;
 
 import javax.swing.JFrame;
