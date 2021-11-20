@@ -7,10 +7,7 @@ import javax.swing.JTable;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-/**
- *
- * @author iisha
- */
+
 public class Result extends javax.swing.JFrame {
 
     int n;
