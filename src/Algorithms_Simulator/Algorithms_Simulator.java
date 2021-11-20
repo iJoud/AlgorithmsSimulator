@@ -1,7 +1,5 @@
-//Section: CAR
-//Shaima Asiri - 1805932
-//Anoud Al-harthy - 1806132
-//Jood Alghamdi - 1905554
+
+
 package Algorithms_Simulator;
 
 import java.io.File;
@@ -10,10 +8,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author iisha
- */
+
 public class Algorithms_Simulator extends javax.swing.JFrame {
 
 //Global variables
